@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(173, 139, 139);
+}
+h1{
+    background-color: green;
+}
+h2{
+    background-color: blue;
+}
+h4{
+    background-color: rgb(127, 136, 255);
+}
+ol{
+    list-style-type: upper-roman;
+    background-color: rgb(70, 94, 172);
+    border-radius: 17px;
+}
+ul{
+    list-style-type: circle;
+    background-color: blueviolet;
+    border-radius: 12px;
+}
+p{
+    background-color: aqua;
+    padding: 17px;
+    border-radius: 12px;
+}li{
+    padding: 5px;
+}
